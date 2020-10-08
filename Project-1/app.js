@@ -1,8 +1,8 @@
 console.log('WAVE CHECK')
 
 //IMG VARIABLES
-let sadTama = document.getElementById('/pic1.gif')
-let happyTama = document.getElementById('/pic2.gif')
+let sadTama = document.getElementById('/tamagotchi-sad.gif')
+let happyTama = document.getElementById('/tamagotchi-happy.gif')
 //ACTION VARIABLES
 let health = 100
 let happiness= 100
