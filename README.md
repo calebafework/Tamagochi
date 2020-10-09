@@ -8,12 +8,13 @@ I grew up with a sister who had a Tamagotchi collection, so seeing this idea bro
 [link text](Image from iOS.jpg)
 ---
 ### Code snippets 
-```javascript:
-//TO SWITCH BACKGROUND GIF
-let switchImg = document.getElementById('parent-image')
- switchImg.src='tamagotchi-sad.gif'
- ```
- I had a really hard time trying to make the image sit centered on the page so I decided to make the animated pet one solid .gif
+I had a really hard time trying to make the image sit centered on the page so I decided to make the animated pet one solid .gif
+
+    ```javascript:
+    //TO SWITCH BACKGROUND GIF
+    let switchImg = document.getElementById('parent-image')
+    switchImg.src='tamagotchi-sad.gif'
+    ```
 ---
 ### Future improvements 
 Fix all bugs and re-writing to make it more efficient. I also **really** wanted to add more animation and sounds. I would also like to make different characters to choose from.

@@ -92,7 +92,6 @@ const triggerAlert = function(){
     alert("Your negligence has caused Caleb to got to the hospital. Intergalactic CPS has been notified and the Police are on their way! GAME OVER SCUMBAG!")
 }
 
-
 //the timer will start counting down from 5mins
 //the sick will start its random function to determine if the caleb will get sick
 //the hunger will count down from 15secs to determine caleb's hunger levels
