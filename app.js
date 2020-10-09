@@ -100,9 +100,7 @@ const triggerAlert = function(){
 
 document.getElementById("foodbtn").addEventListener("click", function(){
         if(hunger ===100){
-            //SWITCH IMG TO SAD
-            console.log('check')
-            switchImg.src='tamagotchi-happy.gif'      
+               //do nothing
         } else if(hunger > 80 && hunger < 100){
             hunger = 100
         } else {
